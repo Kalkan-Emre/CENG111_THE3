@@ -1,5 +1,5 @@
 # CENG111_THE3
-Given summary of the description for this take hame exam is given below.
+Summary of the description for this take hame exam is given below.
 
 *In this exam, the purpose is to construct a parts inventory. Suppose we work in a bicycle factory, where it is
 necessary to keep an inventory of bicycle parts. If we want to build a bicycle, we need to know what is the
